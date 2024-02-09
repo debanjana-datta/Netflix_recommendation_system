@@ -1,2 +1,1 @@
-# Netflix_recommendation_system
-Netflix recommendation system project
+I built a recommendation system for the movielens dataset using Singular Value Decomposition and recommended top 10 movies for a user based on historical ratings. Surprise package from Python was used for the modeling.
